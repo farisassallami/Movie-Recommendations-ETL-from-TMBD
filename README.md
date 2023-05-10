@@ -1,5 +1,5 @@
 # IMDB 
- 
+ Author: Faris Assallami
  ### Business Problem
 
 The business problem in this project was to identify the factors that contribute to a movie's success and to provide recommendations to stakeholders on how to make a successful movie. To achieve this, we needed to analyze various movie-related factors, including box office revenue, budget, genre, director, and cast. By performing exploratory data analysis and hypothesis testing, we aimed to identify the factors that have a significant impact on a movie's success.
