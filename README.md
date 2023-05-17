@@ -17,6 +17,25 @@ Over the course of the project, I completed the following tasks:
 3. Constructed and exported a MySQL database using the data.
 4. Applied hypothesis testing to explore what makes a movie successful.
 
-### Conclusion
+### Which movie rating earns the most revenue?
 
-In conclusion, this project was a great opportunity to work on a real-world business problem and apply data analysis techniques to derive insights from data. By completing this project, I gained valuable experience in data extraction, data analysis, hypothesis testing, and database construction. I am confident that the insights derived from this project will be useful to the stakeholders in making informed decisions regarding the production of successful movies in the future.
+![download](https://github.com/farisassallami/Movie-Recommendations/assets/111199631/f5b9b077-1d6a-408e-a5c9-68067fcfb3d3)
+
+PG Earns the Most revenue on average followed by PG-13.  This Indicates that movies geared toward younger audience gross more revenue on average.
+
+### What length movie earn the most on average?
+
+![download (1)](https://github.com/farisassallami/Movie-Recommendations/assets/111199631/b6434a96-bc7c-4c1c-94a9-a3afb28def9d)
+
+We can see that on average Long Movies (150 minutes and more) tend to gross more revenue than short movies (90 minutes or less).
+
+#### Which budget class grossed more on average?
+
+![download (2)](https://github.com/farisassallami/Movie-Recommendations/assets/111199631/59d711d7-f103-4d87-8b04-89779ded11d2)
+
+As we can see, higher level budget films ($100 Million or more) on average grossed the most revenue.  Followed by Mid Budget ( $10 Million - $100Million), and lastly Low budget ($10 Million or less).
+
+### Recommendations 
+
+Attract funding for large scale budget films.  Focus on childrens movies and pre-teens and make sure they are more than 90 minutes long.
+I am confident that the insights derived from this analysis will be useful to the stakeholders in making informed decisions regarding the production of successful movies in the future.
